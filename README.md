@@ -1,1 +1,1 @@
-# public
+For demonstration and testing
